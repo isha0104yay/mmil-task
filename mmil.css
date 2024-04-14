@@ -1,0 +1,208 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+navbar {
+    color: rgb(155, 91, 214);
+    overflow: hidden;
+  }
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  .navbar li {
+    float: left;
+    font-size: 25px;
+  }
+  .navbar li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px; 
+  }
+  /* Content styles */
+  .ppp{
+    display: flex;
+    
+    justify-content: space-between;
+  }
+  #google {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ75Q9EvClA_AXpsxkvrXrLRQS6iLAI-Y_MV9FKjZDSEw&s);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 190px;
+    height: 45px;
+    border-radius: 30px;
+    border: 1px solid;
+    background-color: #EAEAEA;
+    margin-left: 40px;
+}
+#facebook {
+    background-image: url(https://store-images.s-microsoft.com/image/apps.37935.9007199266245907.b029bd80-381a-4869-854f-bac6f359c5c9.91f8693c-c75b-4050-a796-63e1314d18c9?h=464);
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: end;
+    width: 190px;
+    height: 45px;
+    border-radius: 30px;
+    border: 1px solid;
+    background-color: #EAEAEA;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.form {
+    border: 2px,solid,black;
+    width: 800px;
+    height: 600px;
+}
+.log{
+    width: 170px;
+    height: 40px;
+    border-radius: 6px;
+    background-color: rgb(126, 55, 193);
+    color: black;
+    font-size: 20px;
+    margin-top: 100px;
+
+    
+}
+.box {
+    width: 564px;
+    height: 500px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+    color: grey;
+    margin-left: 300px;
+    margin-top: 70px;
+  }
+  #pas{
+    
+    width: 500px;
+  }
+  #ful{
+    width: 500px;
+  }
+  #em{
+    width: 500px;
+  }
+  #or {
+    padding-left: 250px;
+    margin-top: 50px;
+  }
+  #your {
+    color: black;
+    text-align: center;
+    
+  }
+  #ff{
+    font-size: 80px;
+    color: black;
+    text-align: left;
+  }
+  #cc {
+    color: #0075FFF0;
+    font-size: 28px;
+    font-weight: 500;
+  }
+  .pic {
+    display: flex;
+    justify-content: space-evenly;  
+  }
+  #ggg{
+    margin-left: 40px;
+  }
+  #kkk{
+    margin-right: 20px;
+  }
+  #team {
+    margin-top: 100px;
+    font-size: 40px;
+    font-weight: 300;
+    color: black;
+    text-align: center;
+  }
+  .head {
+    display: flex;
+    justify-content: space-evenly;
+    height: 300px;
+    width: 900px;
+    background-color: #9B9B9B2E;
+
+
+  }
+  .con1 {
+    color: black;
+  }
+  #bbb {
+    padding-top: 50px;
+    font-family: cursive;
+  }
+  .carrie {
+    padding-top: 20px;
+    border-radius: 50%;
+
+  }
+ .luka {
+    border-radius: 50%;
+    padding-top: 30px;
+  } 
+  #line {
+    width: 100%;
+  }
+  #our {
+    font-size: 60px;
+    font-weight: 500;
+    color: black;
+  }
+  .work {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width: 800px;
+    color: black;
+    margin-top: 30px;
+  }
+  .lo1 {
+    padding-left: 50px;
+  }
+  #opp {
+    padding-top: 30px;
+  }
+  .last1 {
+    display: flex;
+    justify-content: space-evenly;
+    height: 350px;
+    width: 800px;
+    color: black;
+    margin-top: 100px;
+  }
+  .twopic {
+    border-radius: 50%;
+  }
+  #proo {
+    height: 60px;
+    width: 510px;
+    background-color: skyblue;
+  }
+  #yyy {
+    color: black;
+    text-align: center;
+  }
+  .last{
+    display: flex;
+    justify-content: space-evenly;
+    height: 200px;
+    width: 600px;
+    color: white;
+    background-color: skyblue;
+    font-weight: 400;
+    margin-bottom: 500px;
+  }
+  #aii{
+    font-weight: 500;
+  }
+    
+   
